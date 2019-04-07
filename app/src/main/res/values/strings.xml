@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">own2</string>
+    <string name="Discription">点击了采用ButterKnife绑定的监听器</string>
+    <string name="Monitor_Activity">Activity作为监听器</string>
+    <string name="Monitor_Unnameclass">匿名内部类</string>
+    <string name="Monitor_tag">绑定到标签</string>
+    <string name="Monitor_inclass">内部类</string>
+    <string name="Monitor_outclass">外部类</string>
+    <string name="Monitor_Butter">ButterKnife绑定</string>
+    <string name="System_message">系统信息</string>
+    <string name="Emulate_Process">模拟进度条</string>
+    <string name="title_activity_system__configuration">System_Configuration</string>
+</resources>
